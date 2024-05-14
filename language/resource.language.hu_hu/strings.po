@@ -107,21 +107,21 @@ msgstr "Állítsd ON-ra és a kijelzőn üzenet jelenik meg, amennyiben új fris
 msgctxt "#718"
 msgid ""
 "Send boot config files from /flash, kodi.log, kernel log and Samba configs "
-"to http://ix.io, and display the short URL"
-msgstr "Küldj betöltési konfigurációt /flash-ből, kodi.log-ot, kernel naplót és Samba beállításokat a http://ix.io címre és jelenítsd meg a rövid URL-t"
+"to https://paste.coreelec.org, and display the short URL"
+msgstr "Küldj betöltési konfigurációt /flash-ből, kodi.log-ot, kernel naplót és Samba beállításokat a https://paste.coreelec.org címre és jelenítsd meg a rövid URL-t"
 
 msgctxt "#719"
 msgid ""
 "Send boot config files from /flash, kodi_crash.log, kernel log and Samba "
-"configs to http://ix.io, and display the short URL"
-msgstr "Küldj betöltési konfigurációt /flash-ből, kodi_crash.log-ot, kernel naplót és Samba beállításokat a http://ix.io címre és jelenítsd meg a rövid URL-t"
+"configs to https://paste.coreelec.org, and display the short URL"
+msgstr "Küldj betöltési konfigurációt /flash-ből, kodi_crash.log-ot, kernel naplót és Samba beállításokat a https://paste.coreelec.org címre és jelenítsd meg a rövid URL-t"
 
 msgctxt "#720"
 msgid "Set to ON to enable the Bluetooth service"
 msgstr "Kapcsold BE-re a Bluetooth engedélyezéséhez"
 
 msgctxt "#721"
-msgid "Send CoreELEC debug info without logs to http://ix.io, and display the short URL"
+msgid "Send CoreELEC debug info without logs to https://paste.coreelec.org, and display the short URL"
 msgstr ""
 
 msgctxt "#722"

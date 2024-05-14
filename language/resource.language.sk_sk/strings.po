@@ -107,21 +107,21 @@ msgstr "Ak je nová aktualizácia k dispozícii, zobrazí sa na ON a na obrazovk
 msgctxt "#718"
 msgid ""
 "Send boot config files from /flash, kodi.log, kernel log and Samba configs "
-"to http://ix.io, and display the short URL"
-msgstr "Odoslať zavádzacie konfiguračné súbory z /flash, kodi.log, kernel log a Samba configs do http://ix.io a zobraziť krátku URL"
+"to https://paste.coreelec.org, and display the short URL"
+msgstr "Odoslať zavádzacie konfiguračné súbory z /flash, kodi.log, kernel log a Samba configs do https://paste.coreelec.org a zobraziť krátku URL"
 
 msgctxt "#719"
 msgid ""
 "Send boot config files from /flash, kodi_crash.log, kernel log and Samba "
-"configs to http://ix.io, and display the short URL"
-msgstr "Odošlite bootovacie konfiguračné súbory z /flash, kodi_crash.log, kernel log a Samba configs do http://ix.io a zobrazte krátku adresu URL"
+"configs to https://paste.coreelec.org, and display the short URL"
+msgstr "Odošlite bootovacie konfiguračné súbory z /flash, kodi_crash.log, kernel log a Samba configs do https://paste.coreelec.org a zobrazte krátku adresu URL"
 
 msgctxt "#720"
 msgid "Set to ON to enable the Bluetooth service"
 msgstr ""
 
 msgctxt "#721"
-msgid "Send CoreELEC debug info without logs to http://ix.io, and display the short URL"
+msgid "Send CoreELEC debug info without logs to https://paste.coreelec.org, and display the short URL"
 msgstr ""
 
 msgctxt "#722"
